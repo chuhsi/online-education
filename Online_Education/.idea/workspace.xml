@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f353f6-acfd-4aef-856b-8467ad2638c0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/service/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/common/common_utils/target/" />
+    <ignored path="$PROJECT_DIR$/common/service_base/target/" />
+    <ignored path="$PROJECT_DIR$/api_gateway/target/" />
+    <ignored path="$PROJECT_DIR$/canal/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_edu/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_oss/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_order/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_cms/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_sms/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_vod/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_ucenter/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_statistics/target/" />
+    <ignored path="$PROJECT_DIR$/common/service_security/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_acl/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_sms/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SmsApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service_sms/src/main/java/com/chuhsi/servicesms/SmsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MsmController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service/service_sms/src/main/java/com/chuhsi/servicesms/controller/MsmController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="e#471#486#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/controller/EduSubjectController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/service/EduSubjectService.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/entity/subject/OneSubject.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/entity/subject/TwoSubject.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/service/impl/EduSubjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/entity/excel/SubjectData.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/listener/SubjectExcelListener.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/controller/EduChapterController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/service/EduChapterService.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/entity/chapter/ChapterVo.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/entity/chapter/VideoVo.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/service/impl/EduChapterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/controller/EduVideoController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/client/OrderClient.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/client/VodClient.java" />
+        <option value="$PROJECT_DIR$/service/service_vod/src/main/java/com/chuhsi/servicevod/controller/VodController.java" />
+        <option value="$PROJECT_DIR$/service/service_vod/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_vod/src/main/java/com/chuhsi/servicevod/service/VodService.java" />
+        <option value="$PROJECT_DIR$/service/service_vod/src/main/java/com/chuhsi/servicevod/service/impl/VodServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/entity/UcenterMember.java" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/entity/vo/RegisterVo.java" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/controller/UcenterMemberController.java" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/service/impl/UcenterMemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/chuhsi/serviceoss/controller/OssController.java" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/chuhsi/serviceoss/service/impl/OssServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_sms/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_sms/src/main/java/com/chuhsi/servicesms/controller/MsmController.java" />
+        <option value="$PROJECT_DIR$/service/service_sms/src/main/java/com/chuhsi/servicesms/service/MsmService.java" />
+        <option value="$PROJECT_DIR$/service/service_sms/src/main/java/com/chuhsi/servicesms/service/impl/MsmServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_cms/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_cms/src/main/java/com/chuhsi/servicecms/controller/BannerFrontController.java" />
+        <option value="$PROJECT_DIR$/service/service_cms/src/main/java/com/chuhsi/servicecms/service/impl/CrmBannerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common/common_utils/src/main/java/com/chuhsi/commonUtils/handler/MyMetaObjectHandler.java" />
+        <option value="$PROJECT_DIR$/common/common_utils/src/main/java/com/chuhsi/commonUtils/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/common/common_utils/src/main/java/com/chuhsi/commonUtils/MD5.java" />
+        <option value="$PROJECT_DIR$/common/common_utils/src/main/java/com/chuhsi/commonUtils/exceptionhandler/Globalexceptionhandler.java" />
+        <option value="$PROJECT_DIR$/common/common_utils/src/main/java/com/chuhsi/commonUtils/exceptionhandler/GuliException.java" />
+        <option value="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/api_gateway/src/main/java/com/chuhsi/gateway/config/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/canal/src/main/java/com/chuhsi/canal/client/CanalClient.java" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/controller/WxApiController.java" />
+        <option value="$PROJECT_DIR$/service/service_cms/src/main/java/com/chuhsi/servicecms/controller/BannerAdminController.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/chuhsi/serviceacl/entity/RolePermission.java" />
+        <option value="$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/config/TokenWebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/filter/TokenLoginFilter.java" />
+        <option value="$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/security/DefaultPasswordEncoder.java" />
+        <option value="$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/security/TokenManager.java" />
+        <option value="$PROJECT_DIR$/api_gateway/src/main/java/com/chuhsi/gateway/handler/JsonExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/api_gateway/src/main/java/com/chuhsi/gateway/handler/ErrorHandlerConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Documents/maven-repository" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.5.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="service_vod" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="servicesms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="servicesms" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Education" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="servicesms" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chuhsi.serviceacl" />
+      <recent name="com.chuhsi.staservice" />
+      <recent name="com.chuhsi.serviceucenter" />
+      <recent name="com.chuhsi.servicevod" />
+      <recent name="com.chuhsi.servicecms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service/service_acl/src/main/java/com/chuhsi/serviceacl" />
+      <recent name="$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security" />
+      <recent name="$PROJECT_DIR$/service/service_oss/src/main/java/com/chuhsi/serviceoss" />
+      <recent name="$PROJECT_DIR$/service/service_statistics/src/main/java/com/chuhsi/staservice" />
+      <recent name="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EduApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api_gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.gateway.ApiGatewayApplication" />
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="canal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.canal.CanalApplication" />
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.servicecms.CmsApplication" />
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_edu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.serviceedu.EduApplication" />
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.serviceorder.OrderApplication" />
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.serviceoss.OssApplication" />
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.serviceacl.ServiceAclApplication" />
+    </configuration>
+    <configuration name="SmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.servicesms.SmsApplication" />
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_statistics" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.staservice.StaApplication" />
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.serviceucenter.UcenterApplication" />
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuhsi.servicevod.VodApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.SmsApplication" />
+      <item itemvalue="Spring Boot.CanalApplication" />
+      <item itemvalue="Spring Boot.ServiceAclApplication" />
+      <item itemvalue="Spring Boot.VodApplication" />
+      <item itemvalue="Spring Boot.UcenterApplication" />
+      <item itemvalue="Spring Boot.StaApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f353f6-acfd-4aef-856b-8467ad2638c0" name="Default" comment="" />
+      <created>1657415393194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657415393194</updated>
+      <workItem from="1657415396600" duration="5464000" />
+      <workItem from="1657436594632" duration="598000" />
+      <workItem from="1657607327836" duration="7220000" />
+      <workItem from="1657695025863" duration="1028000" />
+      <workItem from="1657855685610" duration="560000" />
+      <workItem from="1658802020786" duration="700000" />
+      <workItem from="1659842660356" duration="919000" />
+      <workItem from="1661783898753" duration="1161000" />
+      <workItem from="1661847216500" duration="41000" />
+      <workItem from="1661848684977" duration="2489000" />
+      <workItem from="1661853165103" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20728000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32972974" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3287373" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35123366" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24963716" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/chuhsi/serviceoss/OssApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/chuhsi/serviceoss/utils/ConstantPropertiesUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/chuhsi/serviceoss/service/impl/OssServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_vod/src/main/java/com/chuhsi/servicevod/VodApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_vod/src/main/java/com/chuhsi/servicevod/util/ConstantVodUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_vod/src/main/java/com/chuhsi/servicevod/controller/VodController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_sms/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_vod/src/main/java/com/chuhsi/servicevod/util/AliyunVodSDKUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_statistics/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_statistics/src/main/java/com/chuhsi/staservice/entity/StatisticsDaily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_statistics/src/main/java/com/chuhsi/staservice/controller/StatisticsDailyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/java/com/chuhsi/serviceorder/controller/PayLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/java/com/chuhsi/serviceorder/utils/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/java/com/chuhsi/serviceorder/utils/OrderNoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/java/com/chuhsi/serviceorder/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/java/com/chuhsi/serviceorder/config/OrderConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/entity/UcenterMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/entity/vo/RegisterVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/controller/WxApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/chuhsi/serviceucenter/controller/UcenterMemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-557">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-347" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/java/com/chuhsi/servicecms/controller/BannerAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-434">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/java/com/chuhsi/servicecms/controller/BannerFrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com/chuhsi/serviceacl/entity/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com/chuhsi/serviceacl/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com/chuhsi/serviceacl/entity/RolePermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com/chuhsi/serviceacl/ServiceAclApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/entity/SecurityUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/config/TokenWebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding>
+            <element signature="docComment;class#TokenWebSecurityConfig#0" />
+            <element signature="e#1273#1287#0" />
+            <element signature="docComment;method#configure#0;class#TokenWebSecurityConfig#0" />
+            <element signature="method#configure#0;class#TokenWebSecurityConfig#0" />
+            <element signature="docComment;method#configure#1;class#TokenWebSecurityConfig#0" />
+            <element signature="method#configure#1;class#TokenWebSecurityConfig#0" />
+            <element signature="docComment;method#configure#2;class#TokenWebSecurityConfig#0" />
+            <element signature="method#configure#2;class#TokenWebSecurityConfig#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/filter/TokenAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/security/TokenManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/security/UnauthorizedEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/security/TokenLogoutHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/security/DefaultPasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_security/src/main/java/com/chuhsi/security/filter/TokenLoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-789">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_base/src/main/java/com/chuhsi/serviceBase/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canal/src/main/java/com/chuhsi/canal/client/CanalClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway/src/main/java/com/chuhsi/gateway/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway/src/main/java/com/chuhsi/gateway/handler/JsonExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gateway/src/main/java/com/chuhsi/gateway/handler/ErrorHandlerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/service_base/src/main/java/com/chuhsi/serviceBase/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/chuhsi/serviceoss/controller/OssController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/listener/SubjectExcelListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="method#SubjectExcelListener#1;class#SubjectExcelListener#0" />
+            <element signature="method#existOneSubject#0;class#SubjectExcelListener#0" />
+            <element signature="method#existTwoSubject#0;class#SubjectExcelListener#0" />
+            <element signature="method#invoke#0;class#SubjectExcelListener#0" />
+            <element signature="method#invokeHeadMap#0;class#SubjectExcelListener#0" />
+            <element signature="method#doAfterAllAnalysed#0;class#SubjectExcelListener#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/chuhsi/serviceedu/entity/excel/SubjectData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_sms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_sms/src/main/java/com/chuhsi/servicesms/SmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_sms/src/main/java/com/chuhsi/servicesms/controller/MsmController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#471#486#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>api_gateway</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

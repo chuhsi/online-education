@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api_gateway" />
+        <module name="canal" />
+        <module name="common_utils" />
+        <module name="service_acl" />
+        <module name="service_base" />
+        <module name="service_cms" />
+        <module name="service_edu" />
+        <module name="service_order" />
+        <module name="service_oss" />
+        <module name="service_security" />
+        <module name="service_sms" />
+        <module name="service_statistics" />
+        <module name="service_ucenter" />
+        <module name="service_vod" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
